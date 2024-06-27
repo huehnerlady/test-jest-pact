@@ -1,0 +1,10 @@
+node_modules
+.angular
+.DS_Store
+dist/
+.idea/
+.nx
+.vscode
+.npm
+.npmrc
+coverage/

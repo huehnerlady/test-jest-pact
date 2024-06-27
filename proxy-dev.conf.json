@@ -1,0 +1,11 @@
+{
+  "/backend": {
+    "target": "https://test.de",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/backend": ""
+    }
+  }
+}

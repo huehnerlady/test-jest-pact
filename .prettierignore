@@ -1,0 +1,14 @@
+src/app/services/backend/**
+node_modules
+.angular
+.github/**
+.nx/**
+adr/**
+cdk/**
+.DS_Store
+dist/
+.idea/
+.nx
+.vscode
+
+
